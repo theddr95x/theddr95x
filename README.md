@@ -1,3 +1,7 @@
+![](https://github.com/theddr95x/theddr95x/blob/main/6%20(1).gif)
+
+
+
 - 👋 Hi, I’m @theddr95x
 - 👀 I’m interested in Digital art | Photography
 - 🌱 I’m currently learning Python | C++ | Java 
