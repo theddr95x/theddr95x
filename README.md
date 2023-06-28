@@ -1,7 +1,5 @@
 
-<p align="centre">
-<picture> <img src= "https://github.com/theddr95x/theddr95x/blob/main/giphy.gif" alt="theddr95x"></picture>
-</p>
+ <img align="right" width="450" src= "https://github.com/theddr95x/theddr95x/blob/main/giphy.gif" alt="theddr95x" >
 
 <br>
 
