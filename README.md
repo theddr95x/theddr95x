@@ -1,6 +1,6 @@
 
 <p align="centre">
-<picture> <img  width = "200"  src= "C:\Users\saura\Downloads\giphy.gif alt="theddr95x"></picture>
+<picture> <img src= "https://github.com/theddr95x/theddr95x/blob/main/giphy.gif" alt="theddr95x"></picture>
 </p>
 
 <br>
